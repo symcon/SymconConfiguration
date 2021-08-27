@@ -1,7 +1,8 @@
 {
 	"translations": {
 		"de": { 
-			"Source": "Quelle"
+			"Object": "Objekt",
+			"Objects": "Objekte"
 		}
 	}
 }
