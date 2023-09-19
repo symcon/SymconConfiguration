@@ -6,5 +6,5 @@
 
 Folgende Module beinhaltet das SymconConfiguration Repository:
 
-- __Umbenenner__ ([Dokumentation](Umbenenner))  
+- __Umbenenner__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/umbennener))  
 	Erlaubt das Umbenennen von ausgewählten Objekten übers WebFront
