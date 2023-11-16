@@ -1,8 +1,8 @@
 {
-	"translations": {
-		"de": { 
-			"Object": "Objekt",
-			"Objects": "Objekte"
-		}
-	}
+    "translations": {
+        "de": {
+            "Object": "Objekt",
+            "Objects": "Objekte"
+        }
+    }
 }

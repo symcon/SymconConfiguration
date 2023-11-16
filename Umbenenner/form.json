@@ -1,25 +1,22 @@
 {
-	"elements":
-	[
-
-		{
-			"type": "List",
-			"name": "Objects",
-			"caption": "Objects",
-			"add": true,
-			"delete": true,
-			"columns": [
-				{
-					"caption": "Object",
-					"name": "ObjectID",
-					"width": "auto",
-					"add": 0,
-					"edit": {
-						"type": "SelectObject"
-					} 
-				}
-			]
-
-		}
-	]
+    "elements": [
+        {
+            "type": "List",
+            "name": "Objects",
+            "caption": "Objects",
+            "add": true,
+            "delete": true,
+            "columns": [
+                {
+                    "caption": "Object",
+                    "name": "ObjectID",
+                    "width": "auto",
+                    "add": 0,
+                    "edit": {
+                        "type": "SelectObject"
+                    }
+                }
+            ]
+        }
+    ]
 }
