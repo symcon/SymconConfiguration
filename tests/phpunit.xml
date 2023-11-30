@@ -6,7 +6,7 @@
   </php>
   <source>
     <include>
-      <directory suffix=".php">../Umbenenner</directory>
+      <directory suffix=".php">../Renamer</directory>
     </include>
   </source>
 </phpunit>
