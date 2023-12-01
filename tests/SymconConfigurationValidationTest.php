@@ -8,8 +8,8 @@ class SymconConfigurationValidationTest extends TestCaseSymconValidation
     {
         $this->validateLibrary(__DIR__ . '/..');
     }
-    public function testValidateUmbenennerModule(): void
+    public function testValidateRenamerModule(): void
     {
-        $this->validateModule(__DIR__ . '/../Umbenenner');
+        $this->validateModule(__DIR__ . '/../Renamer');
     }
 }

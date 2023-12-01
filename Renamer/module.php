@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-class Umbenenner extends IPSModule
+class Renamer extends IPSModule
 {
     public function Create()
     {

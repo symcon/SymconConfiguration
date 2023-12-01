@@ -1,6 +1,6 @@
 {
     "id": "{098049ED-647D-46F0-948A-41FB25724398}",
-    "name": "Umbenenner",
+    "name": "Renamer",
     "type": 3,
     "vendor": "",
     "aliases": [],
@@ -8,5 +8,5 @@
     "childRequirements": [],
     "implemented": [],
     "prefix": "RNM",
-    "url": "https://github.com/symcon/SymconConfiguration/tree/master/Umbenenner"
+    "url": "https://www.symcon.de/en/service/documentation/module-reference/renamer/"
 }
