@@ -4,7 +4,7 @@
 [![Check Style](https://github.com/symcon/SymconConfiguration/workflows/Check%20Style/badge.svg)](https://github.com/symcon/SymconConfiguration/actions)
 [![Run Tests](https://github.com/symcon/SymconConfiguration/workflows/Run%20Tests/badge.svg)](https://github.com/symcon/SymconConfiguration/actions)
 
-Folgende Module beinhaltet das SymconConfiguration Repository:
+Folgende Module beinhaltet das Umbennener Repository:
 
 - __Umbenenner__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/umbennener))  
 	Erlaubt das Umbenennen von ausgewählten Objekten übers WebFront
