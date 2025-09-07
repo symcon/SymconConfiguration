@@ -6,5 +6,5 @@
 
 Folgende Module beinhaltet das Umbennener Repository:
 
-- __Umbenenner__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/umbennener))  
+- __Umbenenner__ ([Dokumentation](https://www.symcon.de/de/service/dokumentation/modulreferenz/umbennener/))  
 	Erlaubt das Umbenennen von ausgewählten Objekten über die Visualisierung
